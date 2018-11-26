@@ -1,0 +1,12 @@
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.BookForm.resources
+C:\Users\yongin\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.UserForm.resources
